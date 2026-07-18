@@ -4,7 +4,7 @@ Woodex is a modern and responsive furniture e-commerce landing page designed to 
 
 ## 🌐 Live Demo
 
-🔗 Add your live website link here
+🔗 https://minar-woodex.vercel.app/
 
 ## 📂 GitHub Repository
 
@@ -100,15 +100,6 @@ Or use VS Code Live Server.
 
 The goal of this project is to create a visually appealing and responsive furniture e-commerce landing page that showcases products and provides users with an enjoyable browsing experience.
 
-## 🚀 Deployment
-
-The project is deployed on Vercel.
-
-To deploy your own version:
-
-1. Push the project to GitHub.
-2. Connect the repository to Vercel.
-3. Deploy the project with a single click.
 
 ## 👨‍💻 Author
 
@@ -117,6 +108,3 @@ To deploy your own version:
 - GitHub: https://github.com/minar-hossain82
 - LinkedIn: https://www.linkedin.com/in/minar-hossain-450820380
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
